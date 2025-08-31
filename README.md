@@ -76,7 +76,7 @@ Render provides free HTTPS hosting, auto-deploy from GitHub, and a global CDN fo
 
 ## 📂 Project Structure
 ```
-voice-assistant/
+Voice-Command-Shopping-Assistant/
 ├── index.html     # Main HTML file
 ├── styles.css     # Styling
 ├── script.js      # Core JavaScript logic
